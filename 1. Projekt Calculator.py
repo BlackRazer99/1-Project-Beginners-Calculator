@@ -41,4 +41,5 @@ if Continue == "y" :
     else: print("Your type of Calculation doesn't Exist")
 else: print("Your result is", result)
 
-input("prompt: ") 
+
+input("prompt: ")
